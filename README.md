@@ -1,0 +1,1 @@
+# MyAzureInfyApp2-slot
